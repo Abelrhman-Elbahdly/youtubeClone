@@ -213,8 +213,9 @@ p {
   position: sticky;
 }
 ul {
-  width: 80%;
+  width: 95%;
   margin-top: 10px;
+  margin-left:10px;
   justify-content: space-between;
   align-items: space-between;
   display: flex;
